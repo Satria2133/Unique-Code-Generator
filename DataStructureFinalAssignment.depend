@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1671103091 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\main.cpp
+	"queueUser.h"
+	"controllers.h"
+
+1671098205 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\queueuser.h
+	<iostream>
+
+1671026533 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\queueuser.cpp
+	"queueUser.h"
+
+1671012557 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\stackpalyndrome.cpp
+	"stackPalyndrome.h"
+	<typeinfo>
+
+1671019535 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\stackpalyndrome.h
+	<bits/stdc++.h>
+	<iostream>
+
+1671108988 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\controllers.h
+	<iostream>
+	"queueUser.h"
+	"stackPalyndrome.h"
+	"stackBinaryDecimal.h"
+
+1671109613 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\controllers.cpp
+	"controllers.h"
+	"stackPalyndrome.h"
+	"queueUser.h"
+	"stackBinaryDecimal.h"
+	"finalQueue.h"
+	<iostream>
+
+1671108240 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\stackbinarydecimal.cpp
+	"stackBinaryDecimal.h"
+
+1671108225 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\stackbinarydecimal.h
+	<iostream>
+	<sstream>
+	<string>
+
+1671108076 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\finalqueue.cpp
+	"finalQueue.h"
+
+1671103096 c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\finalqueue.h
+	<iostream>
+	"queueUser.h"
+	"stackPalyndrome.h"
+	"stackBinaryDecimal.h"
+
+1671101011 source:c:\users\glori\onedrive\desktop\telkom university\tugas kuliah\semester 3\data structures practicum\tugasbesar\templatetugasbesar\test.cpp
+	"finalQueue.h"
+
